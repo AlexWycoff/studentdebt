@@ -1,0 +1,1419 @@
+{
+  "_majorVersion": 1,
+  "_minorVersion": 0,
+  "_generated": "August 3rd, 2023 @ 20:10:12 UTC",
+  "_applicationType": "PowerStats",
+  "_analysisType": "AveragesMediansPercents",
+  "_dataset": 157,
+  "_years": [
+    ""
+  ],
+  "_rows": [
+    {
+      "type": "Continuous",
+      "id": "GPA",
+      "label": "Estimated grade point average",
+      "elements": [
+        {
+          "label": "Lower than 2.50",
+          "startValue": 0,
+          "endValue": 249
+        },
+        {
+          "label": "2.50 - 2.99",
+          "startValue": 250,
+          "endValue": 299
+        },
+        {
+          "label": "3.00 - 3.49",
+          "startValue": 300,
+          "endValue": 349
+        },
+        {
+          "label": "3.50 or higher",
+          "startValue": 350,
+          "endValue": 400
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "rnl712n53bj",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Cut"
+    },
+    {
+      "type": "Continuous",
+      "id": "DEPINC",
+      "label": "Dependent students: Parents' income",
+      "elements": [
+        {
+          "label": "0",
+          "startValue": 0,
+          "endValue": 0
+        },
+        {
+          "label": "$1-33,139",
+          "startValue": 1,
+          "endValue": 33139
+        },
+        {
+          "label": "$33,140-72,179",
+          "startValue": 33140,
+          "endValue": 72179
+        },
+        {
+          "label": "$72,180-132,559",
+          "startValue": 72180,
+          "endValue": 132559
+        },
+        {
+          "label": "$132,560 or more",
+          "startValue": 132560,
+          "endValue": 2500000
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "{Skipped}",
+          "values": [
+            -3
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "omlhlxgnygh",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Cut"
+    },
+    {
+      "type": "Categorical",
+      "id": "INCOME",
+      "label": "Total income by dependency (categorical)",
+      "elements": [
+        {
+          "label": "Dependent: Less than $10,000",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Dependent: $10,000-$19,999",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Dependent: $20,000-$29,999",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Dependent: $30,000-$39,999",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "Dependent: $40,000-$49,999",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Dependent: $50,000-$59,999",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Dependent: $60,000-$69,999",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "Dependent: $70,000-$79,999",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "Dependent: $80,000-$99,999",
+          "values": [
+            9
+          ]
+        },
+        {
+          "label": "Dependent: $100,000-$119,999",
+          "values": [
+            10
+          ]
+        },
+        {
+          "label": "Dependent: $120,000-$149,999",
+          "values": [
+            11
+          ]
+        },
+        {
+          "label": "Dependent: $150,000 or more",
+          "values": [
+            12
+          ]
+        },
+        {
+          "label": "Independent: Less than $5,000",
+          "values": [
+            13
+          ]
+        },
+        {
+          "label": "Independent: $5,000-$9,999",
+          "values": [
+            14
+          ]
+        },
+        {
+          "label": "Independent: $10,000-$19,999",
+          "values": [
+            15
+          ]
+        },
+        {
+          "label": "Independent: $20,000-$29,999",
+          "values": [
+            16
+          ]
+        },
+        {
+          "label": "Independent: $30,000-$49,999",
+          "values": [
+            17
+          ]
+        },
+        {
+          "label": "Independent: $50,000 or more",
+          "values": [
+            18
+          ]
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "ilyhvu64zl",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Continuous",
+      "id": "STAFFAMT",
+      "label": "Direct Subsidized and Unsubsidized Loans",
+      "elements": [
+        {
+          "label": "0",
+          "startValue": 0,
+          "endValue": 0
+        },
+        {
+          "label": "$1-4,499",
+          "startValue": 1,
+          "endValue": 4499
+        },
+        {
+          "label": "$4,500-6,249",
+          "startValue": 4500,
+          "endValue": 6249
+        },
+        {
+          "label": "$6,250-7,499",
+          "startValue": 6250,
+          "endValue": 7499
+        },
+        {
+          "label": "$7,500 or more",
+          "startValue": 7500,
+          "endValue": 27000
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "i8a78oz85jk",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Cut"
+    },
+    {
+      "type": "Continuous",
+      "id": "TOTAID",
+      "label": "Total aid amount",
+      "elements": [
+        {
+          "label": "0",
+          "startValue": 0,
+          "endValue": 0
+        },
+        {
+          "label": "$1-4,359",
+          "startValue": 1,
+          "endValue": 4359
+        },
+        {
+          "label": "$4,360-9,449",
+          "startValue": 4360,
+          "endValue": 9449
+        },
+        {
+          "label": "$9,450-18,699",
+          "startValue": 9450,
+          "endValue": 18699
+        },
+        {
+          "label": "$18,700 or more",
+          "startValue": 18700,
+          "endValue": 140175
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "y9t3onz1x6t",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Cut"
+    },
+    {
+      "type": "Categorical",
+      "id": "HSGPA2",
+      "label": "Grade point average in high school (dependent students)",
+      "elements": [
+        {
+          "label": "0.5-0.9 (D- to D)",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "1.0-1.4 (D to C-)",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "1.5-1.9 (C- to C)",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "2.0-2.4 (C to B-)",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "2.5-2.9 (B- to B)",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "3.0-3.4 (B to A-)",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "3.5-4.0 (A- to A)",
+          "values": [
+            7
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "{Skipped}",
+          "values": [
+            -3
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "mz3qrjgr7o9",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "SECTOR1",
+      "label": "NPSAS institution type (IPEDS sector)",
+      "elements": [
+        {
+          "label": "Public 4-year",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Private nonprofit 4-year",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "Private for profit 4-year",
+          "values": [
+            7
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "Public 2-year",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Public less-than-2-year",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Private nonprofit 2-year",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Private nonprofit less-than-2-year",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Private for profit 2-year",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "Private for profit less-than-2-year",
+          "values": [
+            9
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "opuuxfqg1a",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "HLOFFER",
+      "label": "Highest level of offering at NPSAS institution",
+      "elements": [
+        {
+          "label": "Bachelor's degree",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Postbaccalaureate certificate",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Master's degree",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "Post-master's certificate",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "Doctor's degree",
+          "values": [
+            9
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "Award of less than 1 academic year",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "At least 1 but less than 2 academic years",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Associate's degree",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "At least 2 but less than 4 academic years",
+          "values": [
+            4
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "556o4e3de3w",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "MSISTAT",
+      "label": "Minority Serving Institution indicator",
+      "elements": [
+        {
+          "label": "Non-minority serving",
+          "values": [
+            0
+          ]
+        },
+        {
+          "label": "HBCU",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Black/African American-serving, non-HBCU",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Hispanic/Latino-serving",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Asian/Native Hawaiian/Pacific Islander-serving",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "American Indian/Alaska Native-serving",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Other minority-serving",
+          "values": [
+            6
+          ]
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "ej2idbukg5l",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "OBEREG",
+      "label": "NPSAS institution region",
+      "elements": [
+        {
+          "label": "New England (CT ME MA NH RI VT)",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Mideast (DE DC MD NJ NY PA)",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Great Lakes (IL IN MI OH WI)",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Plains (IA KS MN MO NE ND SD)",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "South East (AL AR FL GA KY LA MS NC SC TN VA WV)",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Southwest (AZ NM OK TX)",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Rocky Mountains (CO ID MT UT WY)",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "Far West (AK CA HI NV OR WA)",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "Puerto Rico",
+          "values": [
+            9
+          ]
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "f9656bmro58",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "SELECTV3",
+      "label": "Selectivity (All 4-year institutions)",
+      "elements": [
+        {
+          "label": "Not a 4-year institution",
+          "values": [
+            0
+          ]
+        },
+        {
+          "label": "Very selective",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Moderately selective",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Minimally selective",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Open admission",
+          "values": [
+            4
+          ]
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "gjp1fzd2n9u",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "RACESEX",
+      "label": "Race/ethnicity (with multiple) and gender",
+      "elements": [
+        {
+          "label": "American Indian or Alaska Native male",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "American Indian or Alaska Native female",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Asian male",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Asian female",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "Black or African American male",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Black or African American female",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Hispanic or Latino male",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "Hispanic or Latino female",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "Pacific Islander/Hawaiian male",
+          "values": [
+            9
+          ]
+        },
+        {
+          "label": "Pacific Islander/Hawaiian female",
+          "values": [
+            10
+          ]
+        },
+        {
+          "label": "White male",
+          "values": [
+            11
+          ]
+        },
+        {
+          "label": "White female",
+          "values": [
+            12
+          ]
+        },
+        {
+          "label": "Male of more than one race",
+          "values": [
+            13
+          ]
+        },
+        {
+          "label": "Female of more than one race",
+          "values": [
+            14
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "{Skipped}",
+          "values": [
+            -3
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "im6hcecjkk",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "GENDER3",
+      "label": "Gender",
+      "elements": [
+        {
+          "label": "Male",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Female",
+          "values": [
+            2
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "Genderqueer, gender nonconforming, or a different identity",
+          "values": [
+            3
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "fo26865sn4q",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "RACE",
+      "label": "Race/ethnicity (with multiple)",
+      "elements": [
+        {
+          "label": "White",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Black or African American",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Hispanic or Latino",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Asian",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "American Indian or Alaska Native",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Native Hawaiian/other Pacific Islander",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "More than one race",
+          "values": [
+            7
+          ]
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "1a21hyqduz5",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Categorical",
+      "id": "TETOOK",
+      "label": "Took SAT or ACT exams",
+      "elements": [
+        {
+          "label": "Did not take SAT or ACT",
+          "values": [
+            0
+          ]
+        },
+        {
+          "label": "Took the SAT",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Took the ACT",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Took both the SAT and ACT",
+          "values": [
+            3
+          ]
+        }
+      ],
+      "missingElements": [
+        {
+          "label": "{Skipped}",
+          "values": [
+            -3
+          ]
+        }
+      ],
+      "mapped": [],
+      "ui": {
+        "identifier": "7v03jbrtpzc",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    },
+    {
+      "type": "Continuous",
+      "id": "TESATDER",
+      "label": "SAT derived composite score",
+      "elements": [
+        {
+          "label": "410 <= X <= 600",
+          "startValue": 410,
+          "endValue": 600
+        },
+        {
+          "label": "610 <= X <= 800",
+          "startValue": 610,
+          "endValue": 800
+        },
+        {
+          "label": "810 <= X <= 1000",
+          "startValue": 810,
+          "endValue": 1000
+        },
+        {
+          "label": "1010 <= X <= 1200",
+          "startValue": 1010,
+          "endValue": 1200
+        },
+        {
+          "label": "1210 <= X <= 1400",
+          "startValue": 1210,
+          "endValue": 1400
+        },
+        {
+          "label": "1410 <= X <= 1600",
+          "startValue": 1410,
+          "endValue": 1600
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "qphw5ea8fvj",
+        "usageType": "Row",
+        "editType": "Custom"
+      },
+      "processingType": "Cut"
+    },
+    {
+      "type": "Continuous",
+      "id": "TEACTDER",
+      "label": "ACT derived composite score",
+      "elements": [
+        {
+          "label": "7 <= X <= 11",
+          "startValue": 7,
+          "endValue": 11
+        },
+        {
+          "label": "12 <= X <= 16",
+          "startValue": 12,
+          "endValue": 16
+        },
+        {
+          "label": "17 <= X <= 21",
+          "startValue": 17,
+          "endValue": 21
+        },
+        {
+          "label": "22 <= X <= 26",
+          "startValue": 22,
+          "endValue": 26
+        },
+        {
+          "label": "27 <= X <= 31",
+          "startValue": 27,
+          "endValue": 31
+        },
+        {
+          "label": "32 <= X <= 36",
+          "startValue": 32,
+          "endValue": 36
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "6ecfmsr46ys",
+        "usageType": "Row",
+        "editType": "Custom"
+      },
+      "processingType": "Cut"
+    },
+    {
+      "type": "Categorical",
+      "id": "STUSTATE",
+      "label": "State of legal residence",
+      "elements": [
+        {
+          "label": "Alabama",
+          "values": [
+            1
+          ]
+        },
+        {
+          "label": "Alaska",
+          "values": [
+            2
+          ]
+        },
+        {
+          "label": "Arizona",
+          "values": [
+            3
+          ]
+        },
+        {
+          "label": "Arkansas",
+          "values": [
+            4
+          ]
+        },
+        {
+          "label": "California",
+          "values": [
+            5
+          ]
+        },
+        {
+          "label": "Colorado",
+          "values": [
+            6
+          ]
+        },
+        {
+          "label": "Connecticut",
+          "values": [
+            7
+          ]
+        },
+        {
+          "label": "Delaware",
+          "values": [
+            8
+          ]
+        },
+        {
+          "label": "District of Columbia",
+          "values": [
+            9
+          ]
+        },
+        {
+          "label": "Florida",
+          "values": [
+            10
+          ]
+        },
+        {
+          "label": "Georgia",
+          "values": [
+            11
+          ]
+        },
+        {
+          "label": "Hawaii",
+          "values": [
+            12
+          ]
+        },
+        {
+          "label": "Idaho",
+          "values": [
+            13
+          ]
+        },
+        {
+          "label": "Illinois",
+          "values": [
+            14
+          ]
+        },
+        {
+          "label": "Indiana",
+          "values": [
+            15
+          ]
+        },
+        {
+          "label": "Iowa",
+          "values": [
+            16
+          ]
+        },
+        {
+          "label": "Kansas",
+          "values": [
+            17
+          ]
+        },
+        {
+          "label": "Kentucky",
+          "values": [
+            18
+          ]
+        },
+        {
+          "label": "Louisiana",
+          "values": [
+            19
+          ]
+        },
+        {
+          "label": "Maine",
+          "values": [
+            20
+          ]
+        },
+        {
+          "label": "Maryland",
+          "values": [
+            21
+          ]
+        },
+        {
+          "label": "Massachusetts",
+          "values": [
+            22
+          ]
+        },
+        {
+          "label": "Michigan",
+          "values": [
+            23
+          ]
+        },
+        {
+          "label": "Minnesota",
+          "values": [
+            24
+          ]
+        },
+        {
+          "label": "Mississippi",
+          "values": [
+            25
+          ]
+        },
+        {
+          "label": "Missouri",
+          "values": [
+            26
+          ]
+        },
+        {
+          "label": "Montana",
+          "values": [
+            27
+          ]
+        },
+        {
+          "label": "Nebraska",
+          "values": [
+            28
+          ]
+        },
+        {
+          "label": "Nevada",
+          "values": [
+            29
+          ]
+        },
+        {
+          "label": "New Hampshire",
+          "values": [
+            30
+          ]
+        },
+        {
+          "label": "New Jersey",
+          "values": [
+            31
+          ]
+        },
+        {
+          "label": "New Mexico",
+          "values": [
+            32
+          ]
+        },
+        {
+          "label": "New York",
+          "values": [
+            33
+          ]
+        },
+        {
+          "label": "North Carolina",
+          "values": [
+            34
+          ]
+        },
+        {
+          "label": "North Dakota",
+          "values": [
+            35
+          ]
+        },
+        {
+          "label": "Ohio",
+          "values": [
+            36
+          ]
+        },
+        {
+          "label": "Oklahoma",
+          "values": [
+            37
+          ]
+        },
+        {
+          "label": "Oregon",
+          "values": [
+            38
+          ]
+        },
+        {
+          "label": "Pennsylvania",
+          "values": [
+            39
+          ]
+        },
+        {
+          "label": "Rhode Island",
+          "values": [
+            40
+          ]
+        },
+        {
+          "label": "South Carolina",
+          "values": [
+            41
+          ]
+        },
+        {
+          "label": "South Dakota",
+          "values": [
+            42
+          ]
+        },
+        {
+          "label": "Tennessee",
+          "values": [
+            43
+          ]
+        },
+        {
+          "label": "Texas",
+          "values": [
+            44
+          ]
+        },
+        {
+          "label": "Utah",
+          "values": [
+            45
+          ]
+        },
+        {
+          "label": "Vermont",
+          "values": [
+            46
+          ]
+        },
+        {
+          "label": "Virginia",
+          "values": [
+            47
+          ]
+        },
+        {
+          "label": "Washington",
+          "values": [
+            48
+          ]
+        },
+        {
+          "label": "West Virginia",
+          "values": [
+            49
+          ]
+        },
+        {
+          "label": "Wisconsin",
+          "values": [
+            50
+          ]
+        },
+        {
+          "label": "Wyoming",
+          "values": [
+            51
+          ]
+        },
+        {
+          "label": "Puerto Rico",
+          "values": [
+            52
+          ]
+        },
+        {
+          "label": "Overseas territories",
+          "values": [
+            53
+          ]
+        },
+        {
+          "label": "Foreign countries",
+          "values": [
+            54
+          ]
+        }
+      ],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "36f0co3d3ci",
+        "usageType": "Row",
+        "editType": "Default"
+      },
+      "processingType": "Category"
+    }
+  ],
+  "_columns": [
+    {
+      "type": "Continuous",
+      "id": "OWEAMT1",
+      "label": "Amount still owed on all undergraduate loans",
+      "elements": [],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "my50x176i3m",
+        "usageType": "Column",
+        "editType": "Default",
+        "averagesMediansPercentsType": "Average"
+      },
+      "processingType": "Average",
+      "calculations": [
+        {
+          "condition": "withZeros",
+          "value": false
+        }
+      ]
+    },
+    {
+      "type": "Continuous",
+      "id": "OWEAMT1",
+      "label": "Amount still owed on all undergraduate loans",
+      "elements": [],
+      "missingElements": [],
+      "mapped": [],
+      "ui": {
+        "identifier": "pyv0e09us5",
+        "usageType": "Column",
+        "editType": "Default",
+        "averagesMediansPercentsType": "Average"
+      },
+      "processingType": "Average",
+      "calculations": [
+        {
+          "condition": "withZeros",
+          "value": true
+        }
+      ]
+    }
+  ],
+  "_filters": [
+    [
+      {
+        "type": "Categorical",
+        "id": "UGDEG",
+        "label": "Undergraduate degree program",
+        "elements": [
+          {
+            "label": "Bachelor's degree",
+            "values": [
+              3
+            ]
+          }
+        ],
+        "missingElements": [],
+        "mapped": [],
+        "ui": {
+          "identifier": "bl64qq0h38v",
+          "usageType": "Filter",
+          "filterType": "Category"
+        },
+        "filterType": "Category",
+        "calculations": [],
+        "processingType": "Category"
+      }
+    ]
+  ],
+  "_subtable": null,
+  "_title": "Amount still owed on all undergraduate loans (average) without zeros and Amount still owed on all undergraduate loans (average) with zeros by Estimated grade point average, Dependent students: Parents' income, Total income by dependency (categorical), Direct Subsidized and Unsubsidized Loans, Total aid amount, Grade point average in high school (dependent students), NPSAS institution type (IPEDS sector), Highest level of offering at NPSAS institution, Minority Serving Institution indicator, NPSAS institution region, Selectivity (All 4-year institutions), Race/ethnicity (with multiple) and gender, Gender, Race/ethnicity (with multiple), Took SAT or ACT exams, SAT derived composite score, ACT derived composite score and State of legal residence. Filtered by Undergraduate degree program (Bachelor's degree). ",
+  "_weight": "WTA000"
+}

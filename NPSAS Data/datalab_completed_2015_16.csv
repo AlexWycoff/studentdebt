@@ -107,9 +107,75 @@ SAT derived composite score,810 to 1000,30768.47911,22194.97297
 SAT derived composite score,1010 to 1200,29049.10915,18375.94641
 SAT derived composite score,1210 to 1400,28579.60671,15776.12384
 SAT derived composite score,1410 to 1600,25396.02558,9805.282826
-ACT derived composite score,6 to 10,38594.80453,31201.3183
-ACT derived composite score,11 to 15,30815.56299,20942.95021
-ACT derived composite score,16 to 20,30516.10153,22054.66537
-ACT derived composite score,21 to 25,29646.46896,19472.64851
-ACT derived composite score,26 to 31,28648.14673,16235.96078
+ACT derived composite score,7 to 11,38594.80453,31201.3183
+ACT derived composite score,12 to 16,30815.56299,20942.95021
+ACT derived composite score,17 to 21,30516.10153,22054.66537
+ACT derived composite score,22 to 26,29646.46896,19472.64851
+ACT derived composite score,27 to 31,28648.14673,16235.96078
 ACT derived composite score,32 to 36,25472.14221,10352.78622
+State of legal residence,Alabama,31920.30306,19964.4235
+State of legal residence,Alaska,,
+State of legal residence,Arizona,32174.00567,22021.85255
+State of legal residence,Arkansas,33771.61879,25304.41604
+State of legal residence,California,27540.91755,15932.76102
+State of legal residence,Colorado,32769.03575,19759.65088
+State of legal residence,Connecticut,33791.48729,22584.43842
+State of legal residence,Delaware,29851.51862,18613.10522
+State of legal residence,District of Columbia,,26704.90791
+State of legal residence,Florida,28739.81789,15875.57827
+State of legal residence,Georgia,34849.66253,24228.5345
+State of legal residence,Hawaii,26562.7695,13840.98765
+State of legal residence,Idaho,32081.91092,23644.5653
+State of legal residence,Illinois,32357.16261,24106.02465
+State of legal residence,Indiana,33272.4497,24471.84385
+State of legal residence,Iowa,32340.59065,24732.95006
+State of legal residence,Kansas,28433.3489,20478.08764
+State of legal residence,Kentucky,34530.19555,21622.07833
+State of legal residence,Louisiana,33703.13554,20721.52545
+State of legal residence,Maine,34239.81941,26810.85364
+State of legal residence,Maryland,31666.58085,22084.9833
+State of legal residence,Massachusetts,35355.56467,25106.46072
+State of legal residence,Michigan,35578.88477,28594.89772
+State of legal residence,Minnesota,37557.39316,25334.61538
+State of legal residence,Mississippi,31024.64308,21341.81059
+State of legal residence,Missouri,33980.17014,24119.9672
+State of legal residence,Montana,22855.85424,18519.47623
+State of legal residence,Nebraska,32422.02195,19741.41691
+State of legal residence,Nevada,37615.69336,24911.9831
+State of legal residence,New Hampshire,39126.73387,31027.27202
+State of legal residence,New Jersey,32233.8216,20358.02618
+State of legal residence,New Mexico,28602.10382,16983.74873
+State of legal residence,New York,30339.31083,19032.39704
+State of legal residence,North Carolina,30333.21238,23479.14315
+State of legal residence,North Dakota,48211.01648,25984.67529
+State of legal residence,Ohio,31698.463,23485.18406
+State of legal residence,Oklahoma,31474.011,21903.6826
+State of legal residence,Oregon,25255.19057,18289.91649
+State of legal residence,Pennsylvania,36375.97397,28894.37316
+State of legal residence,Rhode Island,35337.59276,25859.04251
+State of legal residence,South Carolina,37229.32852,25557.97408
+State of legal residence,South Dakota,45722.70591,37218.15902
+State of legal residence,Tennessee,34681.404,23307.70599
+State of legal residence,Texas,31630.21846,22108.40781
+State of legal residence,Utah,27504.94451,15601.8111
+State of legal residence,Vermont,33275.70353,
+State of legal residence,Virginia,31196.90072,22559.47791
+State of legal residence,Washington,28187.80518,18576.14764
+State of legal residence,West Virginia,32359.16641,23388.47971
+State of legal residence,Wisconsin,32097.33317,21832.47867
+State of legal residence,Wyoming,,
+State of legal residence,Puerto Rico,12605.27919,7341.618629
+State of legal residence,Overseas territories,,
+State of legal residence,Foreign countries,22145.09947,2128.062986
+NPSAS Institution Type and Institution Selectivity,"Public 4-year, Very Selective",26558,13965.5
+NPSAS Institution Type and Institution Selectivity,"Public 4-year, Moderately Selective",29107.9,18941.7
+NPSAS Institution Type and Institution Selectivity,"Public 4-year, Minimally Selective",32007.9,22850.4
+NPSAS Institution Type and Institution Selectivity,"Public 4-year, Open Admission",25195,13440.6
+NPSAS Institution Type and Institution Selectivity,"Private Non-Profit 4-year, Very Selective",29666,14704.3
+NPSAS Institution Type and Institution Selectivity,"Private Non-Profit 4-year, Moderately Selective",35067.8,25258
+NPSAS Institution Type and Institution Selectivity,"Private Non-Profit 4-year, Minimally Selective",37136.6,28052.5
+NPSAS Institution Type and Institution Selectivity,"Private Non-Profit 4-year, Open Admission",27600.6,19031.2
+NPSAS Institution Type and Institution Selectivity,"Private For-Profit 4-year, Very Selective",31958.8,25709.5
+NPSAS Institution Type and Institution Selectivity,"Private For-Profit 4-year, Moderately Selective",37752.6,30042
+NPSAS Institution Type and Institution Selectivity,"Private For-Profit 4-year, Minimally Selective",47309.3,40711.8
+NPSAS Institution Type and Institution Selectivity,"Private For-Profit 4-year, Open Admission",42747.6,35622.1
