@@ -1,36 +1,36 @@
-,academicyear,instname,city,state,zip,sector_revised,applicantcount,admitcount,enrollftcount,actcm25,actcm75,satmt25,satmt75,satvr25,satvr75
-7070,2004,Kansas City College,Kansas City,MO,64131,2,130.0,130.0,130.0,,,,,,
-17252,2009,Trinity College of the Bible and Trinity Theological Seminary,Newburgh,IN,47630-2528,2,1915.0,1915.0,845.0,,,,,,
-19077,2004,Everglades University,Boca Raton,FL,33431,2,168.0,168.0,89.0,,,,,,
-22170,2008,Teikyo Loretto Heights University,Denver,CO,80236-2711,2,327.0,327.0,6.0,,,,,,
-25580,2010,Colegio Universitario de San Juan,San Juan,PR,00918,1,548.0,548.0,408.0,,,,,,
-27214,2007,Glenville State College,Glenville,WV,26351-1292,1,1329.0,1329.0,287.0,16.0,22.0,370.0,500.0,380.0,460.0
-28723,2003,Shenandoah University,Winchester,VA,22601-519,2,1055.0,1055.0,305.0,16.0,22.0,430.0,550.0,450.0,570.0
-28756,2012,Saint Pauls College,Lawrenceville,VA,23868,2,803.0,803.0,181.0,12.0,17.0,300.0,400.0,330.0,400.0
-30328,2008,Wayland Baptist University,Plainview,TX,79072,2,334.0,334.0,199.0,17.0,22.0,410.0,570.0,390.0,550.0
-33097,2003,Southern Adventist University,Collegedale,TN,37315-037,2,980.0,980.0,475.0,9.0,27.0,220.0,589.0,210.0,529.0
-40109,2007,Oklahoma Panhandle State University,Goodwell,OK,73939-0430,1,282.0,282.0,248.0,16.0,23.0,380.0,530.0,350.0,470.0
-40145,2004,Northwestern Oklahoma State University,Alva,OK,73717-279,1,492.0,492.0,284.0,17.0,23.0,,,,
-47198,2008,Machzikei Hadath Rabbinical College,Brooklyn,NY,11204,2,123.0,123.0,25.0,,,,,,
-48182,2005,Central Yeshiva Tomchei Tmimim Lubavitz,Brooklyn,NY,11230,2,110.0,110.0,110.0,,,,,,
-49328,2009,Rabbinical College of America,Morristown,NJ,07960,2,114.0,114.0,114.0,,,,,,
-51286,2003,Montana State University-Northern,Havre,MT,59501,1,338.0,338.0,179.0,17.0,22.0,,,,
-54251,2010,Metropolitan State University,Saint Paul,MN,55106-5000,1,288.0,288.0,75.0,,,,,,
-54978,2010,Sacred Heart Major Seminary,Detroit,MI,48206-1799,2,100.0,100.0,43.0,,,,,,
-59465,2003,Northwestern State University of Louisiana,Natchitoches,LA,71497-000,1,3805.0,3805.0,1949.0,16.0,22.0,,,,
-59526,2012,New Orleans Baptist Theological Seminary,New Orleans,LA,70126,2,283.0,283.0,56.0,,,,,,
-59643,2003,Louisiana State University-Shreveport,Shreveport,LA,71115-239,1,794.0,794.0,464.0,18.0,23.0,,,,
-60905,2004,Washburn University,Topeka,KS,66621-000,1,1705.0,1705.0,796.0,18.0,24.0,,,,
-60932,2008,Tabor College,Hillsboro,KS,67063-1799,2,241.0,241.0,142.0,19.0,26.0,450.0,600.0,440.0,580.0
-61107,2004,MidAmerica Nazarene University,Olathe,KS,66062-189,2,638.0,638.0,305.0,19.0,26.0,,,,
-61447,2003,Fort Hays State University,Hays,KS,67601-409,1,1067.0,1067.0,661.0,19.0,24.0,,,,
-62977,2003,Oakland City University,Oakland City,IN,47660-109,2,332.0,332.0,305.0,,,,,,
-63281,2003,Indiana University-East,Richmond,IN,47374,1,1023.0,1023.0,831.0,17.0,21.0,400.0,510.0,390.0,520.0
-69938,2008,Carlos Albizu University-Miami Campus,Miami,FL,33172-2209,2,123.0,123.0,19.0,,,,,,
-72439,2006,Trinity Life Bible College,Sacramento,CA,95842,2,200.0,200.0,72.0,,,,,,
-75566,2011,Coleman University,San Diego,CA,92123-1506,2,100.0,100.0,100.0,,,,,,
-77118,2006,Philander Smith College,Little Rock,AR,72202-3799,2,224.0,224.0,164.0,13.0,18.0,330.0,410.0,310.0,440.0
-78844,2007,University of North Alabama,Florence,AL,35632-0001,1,1878.0,1878.0,999.0,18.0,24.0,435.0,640.0,350.0,470.0
-80264,2005,West Virginia State University,Institute,WV,25112-100,1,1779.0,1779.0,405.0,15.0,20.0,,,,
-82385,2006,Gemological Institute of America,Carlsbad,CA,92008,2,1446.0,1446.0,330.0,,,,,,
-85578,2004,City College,Fort Lauderdale,FL,33309,2,252.0,252.0,438.0,,,,,,
+,academicyear,instname,city,state,zip,sector_revised,loan_num,loan_avg_amount,applicantcount,admitcount,enrollftcount,actcm25,actcm75,satmt25,satmt75,satvr25,satvr75
+7070,2004,Kansas City College,Kansas City,MO,64131,2,22.0,4448.0,130.0,130.0,130.0,,,,,,
+17252,2009,Trinity College of the Bible and Trinity Theological Seminary,Newburgh,IN,47630-2528,2,,,1915.0,1915.0,845.0,,,,,,
+19077,2004,Everglades University,Boca Raton,FL,33431,2,77.0,4986.0,168.0,168.0,89.0,,,,,,
+22170,2008,Teikyo Loretto Heights University,Denver,CO,80236-2711,2,0.0,,327.0,327.0,6.0,,,,,,
+25580,2010,Colegio Universitario de San Juan,San Juan,PR,00918,1,0.0,,548.0,548.0,408.0,,,,,,
+27214,2007,Glenville State College,Glenville,WV,26351-1292,1,169.0,3940.0,1329.0,1329.0,287.0,16.0,22.0,370.0,500.0,380.0,460.0
+28723,2003,Shenandoah University,Winchester,VA,22601-519,2,119.0,3968.0,1055.0,1055.0,305.0,16.0,22.0,430.0,550.0,450.0,570.0
+28756,2012,Saint Pauls College,Lawrenceville,VA,23868,2,98.0,6519.0,803.0,803.0,181.0,12.0,17.0,300.0,400.0,330.0,400.0
+30328,2008,Wayland Baptist University,Plainview,TX,79072,2,101.0,3361.0,334.0,334.0,199.0,17.0,22.0,410.0,570.0,390.0,550.0
+33097,2003,Southern Adventist University,Collegedale,TN,37315-037,2,229.0,3854.0,980.0,980.0,475.0,9.0,27.0,220.0,589.0,210.0,529.0
+40109,2007,Oklahoma Panhandle State University,Goodwell,OK,73939-0430,1,94.0,2499.0,282.0,282.0,248.0,16.0,23.0,380.0,530.0,350.0,470.0
+40145,2004,Northwestern Oklahoma State University,Alva,OK,73717-279,1,93.0,2083.0,492.0,492.0,284.0,17.0,23.0,,,,
+47198,2008,Machzikei Hadath Rabbinical College,Brooklyn,NY,11204,2,0.0,,123.0,123.0,25.0,,,,,,
+48182,2005,Central Yeshiva Tomchei Tmimim Lubavitz,Brooklyn,NY,11230,2,0.0,,110.0,110.0,110.0,,,,,,
+49328,2009,Rabbinical College of America,Morristown,NJ,07960,2,0.0,,114.0,114.0,114.0,,,,,,
+51286,2003,Montana State University-Northern,Havre,MT,59501,1,121.0,3001.0,338.0,338.0,179.0,17.0,22.0,,,,
+54251,2010,Metropolitan State University,Saint Paul,MN,55106-5000,1,32.0,,288.0,288.0,75.0,,,,,,
+54978,2010,Sacred Heart Major Seminary,Detroit,MI,48206-1799,2,1.0,,100.0,100.0,43.0,,,,,,
+59465,2003,Northwestern State University of Louisiana,Natchitoches,LA,71497-000,1,975.0,660.0,3805.0,3805.0,1949.0,16.0,22.0,,,,
+59526,2012,New Orleans Baptist Theological Seminary,New Orleans,LA,70126,2,3.0,9367.0,283.0,283.0,56.0,,,,,,
+59643,2003,Louisiana State University-Shreveport,Shreveport,LA,71115-239,1,102.0,2493.0,794.0,794.0,464.0,18.0,23.0,,,,
+60905,2004,Washburn University,Topeka,KS,66621-000,1,381.0,3471.0,1705.0,1705.0,796.0,18.0,24.0,,,,
+60932,2008,Tabor College,Hillsboro,KS,67063-1799,2,90.0,5599.0,241.0,241.0,142.0,19.0,26.0,450.0,600.0,440.0,580.0
+61107,2004,MidAmerica Nazarene University,Olathe,KS,66062-189,2,199.0,5458.0,638.0,638.0,305.0,19.0,26.0,,,,
+61447,2003,Fort Hays State University,Hays,KS,67601-409,1,357.0,2751.0,1067.0,1067.0,661.0,19.0,24.0,,,,
+62977,2003,Oakland City University,Oakland City,IN,47660-109,2,145.0,3349.0,332.0,332.0,305.0,,,,,,
+63281,2003,Indiana University-East,Richmond,IN,47374,1,136.0,3895.0,1023.0,1023.0,831.0,17.0,21.0,400.0,510.0,390.0,520.0
+69938,2008,Carlos Albizu University-Miami Campus,Miami,FL,33172-2209,2,16.0,7765.0,123.0,123.0,19.0,,,,,,
+72439,2006,Trinity Life Bible College,Sacramento,CA,95842,2,2.0,2344.0,200.0,200.0,72.0,,,,,,
+75566,2011,Coleman University,San Diego,CA,92123-1506,2,18.0,6816.0,100.0,100.0,100.0,,,,,,
+77118,2006,Philander Smith College,Little Rock,AR,72202-3799,2,107.0,6742.0,224.0,224.0,164.0,13.0,18.0,330.0,410.0,310.0,440.0
+78844,2007,University of North Alabama,Florence,AL,35632-0001,1,393.0,3488.0,1878.0,1878.0,999.0,18.0,24.0,435.0,640.0,350.0,470.0
+80264,2005,West Virginia State University,Institute,WV,25112-100,1,337.0,5054.0,1779.0,1779.0,405.0,15.0,20.0,,,,
+82385,2006,Gemological Institute of America,Carlsbad,CA,92008,2,59.0,9361.0,1446.0,1446.0,330.0,,,,,,
+85578,2004,City College,Fort Lauderdale,FL,33309,2,543.0,5248.0,252.0,252.0,438.0,,,,,,
