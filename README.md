@@ -25,4 +25,4 @@ All code in this repository is written within Jupyter Notebook. The code is divi
 The data used comes from the Survey of Income and Program Participation (SIPP), the National Postsecondary Student Aid Study (NPSAS), and the Delta Cost Project. We use Python to clean, sort, and display the data within Jupyter Notebook.
 
 ## Acknowledgements
-A heartfelt thank-you to Jon Stelman and the Renaissance EXL team, who all supported this project throughout and encouraged its growth my time with them. 
+A heartfelt thank-you to Jon Stelman and the Renaissance EXL team, who all supported this project throughout and encouraged its growth during my time with them. 
