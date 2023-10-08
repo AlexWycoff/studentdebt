@@ -21,6 +21,10 @@ All code in this repository is written within Jupyter Notebook. The code is divi
 - 3: An analysis notebook that uses those functions to graph and analyze data that is used in the report
 - 4: An analysis notebook for data from the Delta Cost Project, which outlines the process used to identify example institutions and their related data
 
+## Documents
+- [research paper](https://github.com/AlexWycoff/studentdebt/blob/main/studentDebtPaper.pdf)
+- [presentation](https://github.com/AlexWycoff/studentdebt/blob/main/studentDebtPresentation.pdf)
+
 ## Data
 The data used comes from the Survey of Income and Program Participation (SIPP), the National Postsecondary Student Aid Study (NPSAS), and the Delta Cost Project. We use Python to clean, sort, and display the data within Jupyter Notebook.
 
